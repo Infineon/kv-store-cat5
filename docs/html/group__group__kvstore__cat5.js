@@ -1,0 +1,25 @@
+var group__group__kvstore__cat5 =
+[
+    [ "mtb_kvstore_t", "group__group__kvstore__cat5.html#structmtb__kvstore__t", null ],
+    [ "MTB_KVSTORE_MAX_KEY_VAL", "group__group__kvstore__cat5.html#ga1e03271f294726e456793ab4afa732cc", null ],
+    [ "MTB_KVSTORE_MEM_SIZE", "group__group__kvstore__cat5.html#ga881350c5e331288898bc845c5a8abc9a", null ],
+    [ "MTB_KVSTORE_BAD_PARAM_ERROR", "group__group__kvstore__cat5.html#gaf080d74c7e7cd0b04649ce6617831e74", null ],
+    [ "MTB_KVSTORE_ALIGNMENT_ERROR", "group__group__kvstore__cat5.html#ga4513227045ee358f8f2622c8cf0a3485", null ],
+    [ "MTB_KVSTORE_MEM_ALLOC_ERROR", "group__group__kvstore__cat5.html#gaa4476b5e7db68726ae74b0153690fbfc", null ],
+    [ "MTB_KVSTORE_INVALID_DATA_ERROR", "group__group__kvstore__cat5.html#ga231945421777b158f99b21e5bc2ffde0", null ],
+    [ "MTB_KVSTORE_ERASED_DATA_ERROR", "group__group__kvstore__cat5.html#ga531cd29dc9167444df1474d15a9e263f", null ],
+    [ "MTB_KVSTORE_ITEM_NOT_FOUND_ERROR", "group__group__kvstore__cat5.html#ga0b1535ec72da31cca2681a2990d69d60", null ],
+    [ "MTB_KVSTORE_STORAGE_FULL_ERROR", "group__group__kvstore__cat5.html#gaf746e26fd8da70e4169614b530371a65", null ],
+    [ "MTB_KVSTORE_BUFFER_TOO_SMALL", "group__group__kvstore__cat5.html#ga3b7ec8bfe496de11d5961eddf55eb8a8", null ],
+    [ "MTB_KVSTORE_OVERWRITE_ERROR", "group__group__kvstore__cat5.html#ga5bf8dc91edad282a26bbe4b9f3718493", null ],
+    [ "MTB_KVSTORE_WRITE_ERROR", "group__group__kvstore__cat5.html#gabe9ab3843757443046b7481b121fbc60", null ],
+    [ "MTB_KVSTORE_UNSUPPORTED", "group__group__kvstore__cat5.html#ga616c6361c81309aec53d05df708ade44", null ],
+    [ "MTB_KVSTORE_MEM_ACCESS_ERROR", "group__group__kvstore__cat5.html#gabdd688efd9377472deadb8a483802357", null ],
+    [ "MTB_KVSTORE_UNKNOWN_ERROR", "group__group__kvstore__cat5.html#gad67aade4aae6cfe161f309d6266796a3", null ],
+    [ "mtb_kvstore_init", "group__group__kvstore__cat5.html#gaa912d94ea109becba366a32127b19d88", null ],
+    [ "mtb_kvstore_write_numeric_key", "group__group__kvstore__cat5.html#ga9669f9e0e95c92dfbc30b018f437f23e", null ],
+    [ "mtb_kvstore_read_numeric_key", "group__group__kvstore__cat5.html#gabd477f24552a336a17279e8ee0e65978", null ],
+    [ "mtb_kvstore_delete_numeric_key", "group__group__kvstore__cat5.html#ga22ad87c2240194d5a6a7ea535a5607c5", null ],
+    [ "mtb_kvstore_reset", "group__group__kvstore__cat5.html#ga5dc849717a6e3c8b7803fe2224cc6df1", null ],
+    [ "mtb_kvstore_deinit", "group__group__kvstore__cat5.html#ga4388f0dd869ef9dbe2da0d2920cca290", null ]
+];
